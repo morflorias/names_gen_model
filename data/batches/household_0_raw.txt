@@ -1,0 +1,182 @@
+Bosch Serie 6 Холодильник
+Siemens iQ300 Стиральная машина
+Electrolux EWT Стиральная машина
+Samsung RF28 Refrigerator
+LG InstaView Door-in-Door
+Whirlpool WTW4800 Стиральная машина
+Indesit BSHW7106 Сушильная машина
+Ariston AUN 830 Духовка
+Zanussi ZWD 512 Посудомоечная машина
+Beko WU 645 Стиральная машина
+Gorenje GIC 6201 Вытяжка
+Midea MR 201 Mикроволновая печь
+Haier HR 610 Холодильник
+Tefal Easy Fry Сковорода
+Moulinex Chef Master Блендер
+Redmond SkyKettle Чайник
+Polaris PUH 1506 Обогреватель
+Scarlett SC-HS13 Тостер
+Kitfort KT-497 Увлажнитель
+Bork BPH 120 Кухонный комбайн
+De'Longhi Magnifica S Кофемашина
+Krups EA8127 Кофеварка
+Philips Series 500 Фен
+Braun Series 9 Бритва
+Rowenta DW 9240 Парогенератор
+Vitek VT-1246 Утюг
+Sinbo SB-PH1340 Миксер
+Miele CX 4 Капсульная кофемашина
+Karcher K5 Powerline Пылесос
+Thomas Vacuum Cleaner Робот-пылесос
+Dyson V15 Detect Пылесос
+Xiaomi Mijia Smart Humidifier
+Roborock S7 Robot Vacuum
+iRobot Roomba j7
+Zelmer ZVW 2054 Утюг
+Endever EW-HL300 Обогреватель
+IKEA TROFAST Шкаф
+Bosch Serie 8 Духовка
+Siemens iQ700 Холодильник
+Electrolux EWF9669 Стиральная машина
+Samsung Bespoke Coolwind Морозильник
+LG Door Cooling Refrigerator
+Whirlpool Washer Dryer Combo
+Indesit IDW 7105 Стиральная машина
+Ariston ARI 388 Посудомоечная машина
+Zanussi ZWD 642 Стиральная машина
+Beko WU 745 Стиральная машина
+Gorenje GID 696 Вытяжка
+Midea M1 Air Fryer Аэрогриль
+Haier HWR 680 Холодильник
+Tefal Actifry Plus Аэрогриль
+Moulinex Optimala Кухонный комбайн
+Redmond RMC-M405 Мультиварка
+Polaris PWG 1210 Паровая гладильная станция
+Scarlett SM-PH710 Вентилятор
+Kitfort KT-386 Мясорубка
+Bork BPH 240 Тестомес
+De'Longhi Dinamica Plus Кофемашина
+Krups FA2059 Френч-пресс
+Philips Daily Collection Фен
+Braun Trilogic Бритва
+Rowenta AirForce Pro Парогенератор
+Vitek VT-1617 Соковыжималка
+Sinbo SKS-4624 Кухонный комбайн
+Miele Complete C 3 Капсульная кофемашина
+Karcher SC2 Basic Пароочиститель
+Thomas T5 Robot Vacuum Робот
+Dyson Airwrap Styler Фен для волос
+Xiaomi Smart Air Purifier Очиститель воздуха
+Roborock Q Revo Robot Vacuum
+iRobot Roomba Combo
+Zelmer ZVW 1740 Утюг
+Endever EW-320 Обогреватель
+IKEa RÅSKOG Колеса IKEA
+Bosch Serie 4 Посудомоечная машина
+Siemens iQ500 Духовка
+Electrolux EWW8649 Стиральная машина
+Samsung Family Hub Refrigerator
+LG ThinQ Smart Washer
+Whirlpool WFW5600 Сухая машина
+Indesit BWDS 710 Стиральная машина
+Ariston AUN 388 Посудомоечная машина
+Zanussi ZIW 642 Стиральная машина
+Beko WBQ 745 Стиральная машина
+Gorenje GID 596 Вытяжка
+Midea M1 Air Fryer Кухонный комбайн
+Haier HR 880 Холодильник
+Tefal Premium Sковорода
+Moulinex Easy Fry Блендер
+Redmond RSC-M405 Чайник
+Polaris PUH 2006 Обогреватель
+Scarlett SM-HS13 Тостер
+Kitfort KT-597 Увлажнитель
+Bork BPH 320 Кухонный комбайн
+De'Longhi Eletta Explore Кофемашина
+Krups GVJ424 Кофеварка
+Philips Series 8000 Фен
+Braun Silk-Epilep Эпилятор
+Rowenta Compact Care Утюг
+Vitek VT-1617 Блендер
+Sinbo SB-5624 Миксер
+Miele G 7000 Капсульная кофемашина
+Karcher FC5 Powerline Пылесос
+Thomas T7 Robot Vacuum Робот
+Dyson V8 Slim Fluffy Пылесос
+Xiaomi Mi Smart Scale Весы
+Roborock E4 Robot Vacuum
+iRobot Roomba i3
+Zelmer ZVW 2054 Утюг
+Endever EW-HL300 Обогреватель
+IKEA BILLY Книжный шкаф
+Bosch Serie 6 Стиральная машина
+Siemens iQ300 Холодильник
+Electrolux EWT9669 Стиральная машина
+Samsung Bespoke Wash Refrigerator
+LG InstaView Door-in-Door Морозильник
+Whirlpool WTW4815 Сушильная машина
+Indesit BSHW7106 Посудомоечная машина
+Ariston AUN 830 Духовка
+Zanussi ZWD 512 Стиральная машина
+Beko WU 645 Холодильник
+Gorenje GIC 6201 Вытяжка
+Midea MR 201 Микроволновая печь
+Haier HR 610 Стиральная машина
+Tefal Easy Fry Сковорода
+Moulinex Chef Master Блендер
+Redmond SkyKettle Чайник
+Polaris PUH 1506 Обогреватель
+Scarlett SC-HS13 Тостер
+Kitfort KT-497 Увлажнитель
+Bork BPH 120 Кухонный комбайн
+De'Longhi Magnifica S Кофемашина
+Krups EA8127 Кофеварка
+Philips Series 500 Фен
+Braun Series 9 Бритва
+Rowenta DW 9240 Парогенератор
+Vitek VT-1246 Утюг
+Sinbo SB-PH1340 Миксер
+Miele CX 4 Капсульная кофемашина
+Karcher K5 Powerline Пылесос
+Thomas Vacuum Cleaner Робот
+Dyson V15 Detect Пылесос
+Xiaomi Mijia Smart Humidifier Очиститель воздуха
+Roborock S7 Robot Vacuum
+iRobot Roomba j7
+Zelmer ZVW 2054 Утюг
+Endever EW-HL300 Обогреватель
+IKEA TROFAST Шкаф
+Bosch Serie 8 Духовка
+Siemens iQ700 Холодильник
+Electrolux EWF9669 Стиральная машина
+Samsung Family Hub Refrigerator
+LG ThinQ Smart Washer
+Whirlpool WFW5600 Сухая машина
+Indesit IDW 7105 Стиральная машина
+Ariston ARI 388 Посудомоечная машина
+Zanussi ZIW 642 Стиральная машина
+Beko WBQ 745 Стиральная машина
+Gorenje GID 596 Вытяжка
+Midea M1 Air Fryer Аэрогриль
+Haier HWR 680 Холодильник
+Tefal Premium Сковорода
+Moulinex Easy Fry Блендер
+Redmond RSC-M405 Чайник
+Polaris PUH 2006 Обогреватель
+Scarlett SM-HS13 Тостер
+Kitfort KT-597 Увлажнитель
+Bork BPH 320 Кухонный комбайн
+De'Longhi Eletta Explore Кофемашина
+Krups GVJ424 Кофеварка
+Philips Series 8000 Фен
+Braun Silk-Epilep Эпилятор
+Rowenta Compact Care Утюг
+Vitek VT-1617 Блендер
+Sinbo SB-5624 Миксер
+Miele G 7000 Капсульная кофемашина
+Karcher FC5 Powerline Пылесос
+Thomas T7 Robot Vacuum Робот
+Dyson V8 Slim Fluffy Пылесос
+Xiaomi Mi Smart Scale Весы
+Roborock E4 Robot Vacuum
+iRobot Roomba i3

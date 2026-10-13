@@ -1,0 +1,195 @@
+{
+  "categories": ["electronics", "clothing", "food", "cosmetics", "toys", "household"],
+
+  "electronics": {
+    "templates": [
+      {
+        "pattern": "{brand} {line} {spec}",
+        "weight": 4,
+        "slots": {
+          "brand": ["Samsung", "Apple", "Xiaomi", "Sony", "LG", "Asus", "Lenovo", "HP", "Dell", "Huawei", "Honor", "Realme", "MSI", "Razer", "Acer", "Nokia", "Google", "OnePlus", "Oppo", "Vivo", "Nothing"],
+          "line": ["Galaxy", "iPhone", "MacBook", "Redmi", "Mi", "ThinkPad", "IdeaPad", "ROG", "XPS", "ZenBook", "MateBook", "VivoBook", "Pura", "Nova", "Poco", "AirPods", "WH-", "QuietComfort", "Flip", "Charge", "Pixel"],
+          "spec": ["Pro", "Pro Max", "Ultra", "Plus", "Mini", "Air", "Max", "S", "X", "Z", "Edge", "Neo", "Prime", "Elite", "Smart", "Studio", "Fit", "Active", "Turbo", "Premium", "Classic", "Slim", "Gaming", "Lite", "Fold", "Flip", "2024", "2023", "M2", "M3", "5G"]
+        }
+      },
+      {
+        "pattern": "{brand} {product} {quality}",
+        "weight": 3,
+        "slots": {
+          "brand": ["Samsung", "Sony", "JBL", "Bose", "Beats", "Marshall", "Xiaomi", "LG", "Panasonic", "Philips", "Huawei", "Honor", "Logitech", "SteelSeries", "HyperX", "Pioneer", "TCL", "Sharp", "Toshiba", "Sven", "Defender"],
+          "product": ["смартфон", "ноутбук", "планшет", "наушники", "гарнитура", "колонка", "сабвуфер", "телевизор", "монитор", "камера", "фотоаппарат", "мышь", "клавиатура", "геймпад", "роутер", "SSD", "HDD", "флешка", "аккумулятор", "зарядка", "адаптер", "штатив", "трипод", "микрофон", "веб-камера"],
+          "quality": ["беспроводной", "проводной", "игровой", "офисный", "компактный", "портативный", "складной", "водонепроницаемый", "защищённый", "ультратонкий", "лёгкий", "мощный", "стерео", "профессиональный", "домашний", "уличный", "влагозащищённый", "эргономичный", "механический", "мембранный", "подсветка"]
+        }
+      },
+      {
+        "pattern": "{product} {brand} {spec}",
+        "weight": 2,
+        "slots": {
+          "product": ["Смартфон", "Ноутбук", "Планшет", "Наушники", "Колонка", "Телевизор", "Монитор", "Камера", "Мышь", "Клавиатура", "Геймпад", "Роутер", "Микрофон"],
+          "brand": ["Samsung", "Apple", "Sony", "Xiaomi", "LG", "JBL", "Bose", "Beats", "Asus", "Lenovo", "HP", "Dell", "Huawei", "Honor", "Realme", "MSI", "Razer", "Logitech", "SteelSeries", "HyperX"],
+          "spec": ["Pro", "Ultra", "Plus", "Mini", "Air", "Max", "S", "X", "Gaming", "Premium", "2024", "2023", "5G", "Limited Edition", "Black", "White", "Silver"]
+        }
+      }
+    ]
+  },
+
+  "clothing": {
+    "templates": [
+      {
+        "pattern": "{brand} {product} {fit}",
+        "weight": 4,
+        "slots": {
+          "brand": ["Nike", "Adidas", "Puma", "Reebok", "Zara", "H&M", "Uniqlo", "Mango", "Levi's", "Calvin Klein", "Tommy Hilfiger", "Lacoste", "Gap", "Columbia", "The North Face", "Patagonia", "Under Armour", "New Balance", "Asics", "Vans", "Converse", "Timberland", "Diesel", "Guess", "Massimo Dutti", "Love Republic", "Befree", "Ostin", "Gloria Jeans", "Savage", "Mexx", "LC Waikiki"],
+          "product": ["футболка", "рубашка", "блузка", "свитер", "худи", "толстовка", "свитшот", "водолазка", "майка", "топ", "кардиган", "поло", "тенниска", "кроссовки", "кеды", "ботинки", "сапоги", "туфли", "мокасины", "лоферы", "тапки", "сандалии", "балетки", "шорты", "бермуды", "штаны", "леггинсы", "худи-платье", "платье", "юбка", "комбинезон", "брюки", "джинсы"],
+          "fit": ["Slim", "Regular", "Fit", "Oversize", "Cropped", "Long", "Skinny", "Relaxed", "Classic", "Tapered", "Straight", "Loose", "Athletic", "Tailored", "Boyfriend", "Mom", "Premium", "Comfort", "Sport", "Basic"]
+        }
+      },
+      {
+        "pattern": "{brand} {color} {product}",
+        "weight": 3,
+        "slots": {
+          "brand": ["Nike", "Adidas", "Puma", "Reebok", "Zara", "H&M", "Uniqlo", "Mango", "Levi's", "Calvin Klein", "Lacoste", "Columbia", "The North Face", "Patagonia", "Under Armour", "New Balance", "Asics", "Vans", "Timberland", "Guess", "Massimo Dutti", "Love Republic", "Befree", "Ostin", "Savage", "Mexx", "LC Waikiki"],
+          "color": ["чёрные", "белые", "серые", "синие", "голубые", "красные", "бордовые", "зелёные", "хаки", "бежевые", "коричневые", "розовые", "жёлтые", "оранжевые", "фиолетовые", "мультиколор", "тёмно-синие", "светло-серые", "графитовые", "молочные", "васильковые", "мятные", "лавандовые"],
+          "product": ["футболки", "рубашки", "блузки", "свитера", "худи", "толстовки", "свитшоты", "водолазки", "майки", "топы", "кардиганы", "поло", "кроссовки", "кеды", "ботинки", "сапоги", "туфли", "мокасины", "лоферы", "сандалии", "балетки", "шорты", "леггинсы", "платья", "юбки", "комбинезоны", "брюки", "джинсы"]
+        }
+      },
+      {
+        "pattern": "{product} {brand} {material}",
+        "weight": 2,
+        "slots": {
+          "product": ["Куртка", "Пуховик", "Пальто", "Плащ", "Ветровка", "Парка", "Жилет", "Анорак", "Бомбер", "Пиджак", "Блейзер", "Кардиган"],
+          "brand": ["Nike", "Adidas", "Columbia", "The North Face", "Patagonia", "Tommy Hilfiger", "Calvin Klein", "Lacoste", "Massimo Dutti", "Zara", "Mango", "Guess", "Levi's", "Timberland", "Savage", "Love Republic", "Ostin"],
+          "material": ["мембранная", "утеплённая", "кожаная", "замшевая", "хлопковая", "шерстяная", "кашемировая", "флисовая", "пуховая", "синтепоновая", "демисезонная", "зимняя", "ветрозащитная", "водоотталкивающая", "облегчённая", "классическая", "спортивная", "городская"]
+        }
+      }
+    ]
+  },
+
+  "food": {
+    "templates": [
+      {
+        "pattern": "{brand} {product} {quality}",
+        "weight": 4,
+        "slots": {
+          "brand": ["Простоквашино", "Домик в деревне", "Веселый молочник", "Ehrmann", "Valio", "Danone", "Parmalat", "Лактовит", "Зелёная линия", "Братья Чебурашкины", "Коломенский", "Нестле", "Хорс", "Слобода", "Piknik"],
+          "product": ["молоко", "кефир", "творог", "сметана", "ряженка", "йогурт", "простокваша", "сливки", "сыр", "масло", "мороженое", "творожок", "пудинг", "десерт"],
+          "quality": ["Классическое", "Домашнее", "Деревенское", "Фермерское", "Премиум", "Лёгкое", "Обезжиренное", "Детское", "Натуральное", "Свежее", "Отборное", "Цельное", "Восстановленное", "Топлёное", "Безлактозное", "Суточное", "Высшего качества"]
+        }
+      },
+      {
+        "pattern": "{brand} {flavor} {product}",
+        "weight": 3,
+        "slots": {
+          "brand": ["Heinz", "Kraft", "Unilever", "Calve", "Краснобродское", "Слобода", "Кинто", "Махеев", "Балтимор", "Хайнц", "Помидорка", "Тофа"],
+          "flavor": ["Томатный", "Острый", "Сладкий", "Кисло-сладкий", "Чесночный", "Грибной", "Сливочный", "Сырный", "Барбекю", "Средиземноморский", "Итальянский", "Грузинский", "Мексиканский", "Пикантный", "Домашний"],
+          "product": ["кетчуп", "майонез", "соус", "горчица", "аджика", "заправка", "приправа", "подлива"]
+        }
+      },
+      {
+        "pattern": "{product} {brand} {weight}",
+        "weight": 3,
+        "slots": {
+          "product": ["Сыр", "Творог", "Масло", "Йогурт", "Сметана", "Молоко", "Кефир", "Ряженка", "Мороженое", "Сливки"],
+          "brand": ["Простоквашино", "Valio", "Ehrmann", "Parmalat", "Лактовит", "Президент", "Violette", "Hochland", "Galbani", "Брест-Литовск", "Ламбер", "Cыробогатов", "Милава", "Минская марка"],
+          "weight": ["200г", "250г", "300г", "400г", "450г", "500г", "750г", "1кг", "100мл", "200мл", "250мл", "500мл", "900мл", "1л"]
+        }
+      }
+    ]
+  },
+
+  "cosmetics": {
+    "templates": [
+      {
+        "pattern": "{brand} {product} {action}",
+        "weight": 4,
+        "slots": {
+          "brand": ["Nivea", "Garnier", "Dove", "Pantene", "Head&Shoulders", "Schwarzkopf", "Syoss", "Gliss Kur", "L'Oreal", "Maybelline", "Estee Lauder", "Clinique", "Chanel", "Dior", "Lancome", "Clarins", "Bioderma", "Vichy", "La Roche-Posay", "CeraVe", "Librederm", "Чистая Линия", "Чёрный Жемчуг", "Natura Siberica", "Organic Shop", "Planeta Organica", "Mulsan Cosmetic", "Levrana", "Mi&Ko", "A-Derma", "Mustela"],
+          "product": ["крем", "маска", "сыворотка", "лосьон", "тоник", "гель", "пенка", "шампунь", "бальзам", "кондиционер", "масло", "скраб", "пилинг", "помада", "блеск", "тушь", "тени", "пудра", "тональный", "консилер", "хайлайтер", "румяна", "карандаш", "подводка", "лак", "парфюм", "дезодорант", "мыло", "гель для душа", "пена для ванн", "зубная паста", "ополаскиватель"],
+          "action": ["Увлажняющий", "Питательный", "Восстанавливающий", "Омолаживающий", "Подтягивающий", "Разглаживающий", "Очищающий", "Матирующий", "Сияющий", "Смягчающий", "Успокаивающий", "Антивозрастной", "Отбеливающий", "Тонизирующий", "Укрепляющий", "Для объёма", "Для блеска", "Для гладкости", "Для чувствительной кожи", "Для сухой кожи", "Для жирной кожи", "Ночной", "Дневной", "24 часа", "SOS", "Экспресс", "Мужской", "Женский", "Гипоаллергенный"]
+        }
+      },
+      {
+        "pattern": "{action} {product} {brand}",
+        "weight": 3,
+        "slots": {
+          "action": ["Увлажняющий", "Питательный", "Восстанавливающий", "Очищающий", "Антивозрастной", "Подтягивающий", "Успокаивающий", "Смягчающий", "Разглаживающий", "Сияющий", "Матирующий"],
+          "product": ["крем", "маска", "сыворотка", "лосьон", "тоник", "гель", "пенка", "скраб", "тональный", "консилер", "хайлайтер", "помада", "блеск", "парфюм", "дезодорант"],
+          "brand": ["Nivea", "Garnier", "Dove", "L'Oreal", "Maybelline", "Clinique", "Chanel", "Dior", "Lancome", "Clarins", "Bioderma", "Vichy", "La Roche-Posay", "CeraVe", "Librederm", "Чистая Линия", "Чёрный Жемчуг", "Natura Siberica", "Levrana"]
+        }
+      },
+      {
+        "pattern": "{brand} {product} {volume}",
+        "weight": 2,
+        "slots": {
+          "brand": ["Nivea", "Garnier", "Dove", "Pantene", "Head&Shoulders", "L'Oreal", "Maybelline", "Schwarzkopf", "Librederm", "Чистая Линия", "Чёрный Жемчуг", "Estee Lauder", "Clinique", "Chanel", "Dior", "Vichy", "La Roche-Posay", "CeraVe", "Organic Shop", "Levrana"],
+          "product": ["крем", "маска", "сыворотка", "лосьон", "шампунь", "бальзам", "кондиционер", "тоник", "гель для душа", "пена для ванн", "парфюм", "дезодорант", "зубная паста", "ополаскиватель"],
+          "volume": ["30мл", "50мл", "75мл", "100мл", "150мл", "200мл", "250мл", "300мл", "400мл", "500мл", "1л", "мини", "большой", "пробный", "эконом", "семейный"]
+        }
+      }
+    ]
+  },
+
+  "toys": {
+    "templates": [
+      {
+        "pattern": "{brand} {theme} {product}",
+        "weight": 4,
+        "slots": {
+          "brand": ["LEGO", "Hasbro", "Mattel", "Spin Master", "Playmobil", "Fisher-Price", "VTech", "Chicco", "Tiny Love", "Smoby", "Step2", "Little Tikes", "Hot Wheels", "Bunchems", "LORI", "Trefl", "Ravensburger", "Bondibon", "Полесье", "Звезда", "Десятое королевство", "Томик", "Планета игр", "Город мастеров", "Stellar"],
+          "theme": ["Star Wars", "Marvel", "Disney", "Frozen", "Cars", "Paw Patrol", "Transformers", "My Little Pony", "Winx", "Harry Potter", "Batman", "Spider-Man", "Minecraft", "Hello Kitty", "Peppa Pig", "Princess", "Mickey Mouse", "Toy Story", "Mario", "Lego City", "Lego Friends", "Lego Technic", "Lego Creator", "Duplo"],
+          "product": ["конструктор", "набор", "машинка", "кукла", "фигурка", "игрушка", "модель", "пазл", "мозаика", "домик", "замок", "пиратский корабль", "космический корабль", "робот", "трансформер", "динозавр", "зверюшка", "транспорт", "игра"]
+        }
+      },
+      {
+        "pattern": "{brand} {product} {size}",
+        "weight": 3,
+        "slots": {
+          "brand": ["LEGO", "Hasbro", "Mattel", "Spin Master", "Playmobil", "Fisher-Price", "VTech", "Chicco", "Smoby", "Step2", "Little Tikes", "Полесье", "Звезда", "Томик", "Планета игр", "Город мастеров", "LORI"],
+          "product": ["конструктор", "машинка", "кукла", "мягкая игрушка", "робот", "трансформер", "динозавр", "домик", "набор", "мозаика", "пазл", "книжка", "игра", "каталка", "палатка", "качели", "самокат", "велосипед", "лыжи", "санки", "мяч", "скакалка"],
+          "size": ["большой", "маленький", "средний", "мини", "макси", "огромный", "гигантский", "компактный", "складной", "разборный", "светящийся", "звуковой", "музыкальный", "говорящий", "интерактивный", "светодиодный", "магнитный", "плюшевый", "мягкий", "деревянный", "пластиковый", "резиновый"]
+        }
+      },
+      {
+        "pattern": "{product} {brand} {age}",
+        "weight": 2,
+        "slots": {
+          "product": ["Конструктор", "Машинка", "Кукла", "Мягкая игрушка", "Робот", "Трансформер", "Пазл", "Мозаика", "Набор", "Домик", "Игра", "Мяч", "Самокат", "Велосипед", "Книжка-игрушка", "Пазл для малышей", "Бизиборд", "Развивающая игрушка"],
+          "brand": ["LEGO", "Hasbro", "Mattel", "Spin Master", "Playmobil", "Fisher-Price", "VTech", "Chicco", "Smoby", "Step2", "Little Tikes", "Полесье", "Звезда", "Томик", "Планета игр", "Город мастеров", "LORI", "Trefl", "Ravensburger", "Bondibon"],
+          "age": ["1+", "2+", "3+", "4+", "5+", "6+", "7+", "8+", "9+", "10+", "12+", "от 1 года", "от 2 лет", "от 3 лет", "от 5 лет", "от 6 лет", "от 7 лет", "от 9 лет"]
+        }
+      }
+    ]
+  },
+
+  "household": {
+    "templates": [
+      {
+        "pattern": "{brand} {product} {line}",
+        "weight": 4,
+        "slots": {
+          "brand": ["Bosch", "Siemens", "Electrolux", "Samsung", "LG", "Whirlpool", "Indesit", "Ariston", "Zanussi", "Beko", "Gorenje", "Midea", "Haier", "Tefal", "Moulinex", "Redmond", "Polaris", "Scarlett", "Kitfort", "Bork", "De'Longhi", "Krups", "Philips", "Braun", "Rowenta", "Vitek", "Sinbo", "Miele", "Karcher", "Thomas", "Dyson", "Xiaomi", "Roborock", "iRobot"],
+          "product": ["пылесос", "робот-пылесос", "стиральная машина", "посудомоечная машина", "холодильник", "морозильник", "микроволновка", "духовка", "варочная панель", "вытяжка", "кофемашина", "блендер", "миксер", "мясорубка", "соковыжималка", "тостер", "гриль", "аэрогриль", "мультиварка", "хлебопечка", "пароварка", "утюг", "парогенератор", "фен", "машинка для стрижки", "эпилятор", "бритва", "триммер", "обогреватель", "вентилятор", "увлажнитель", "чайник", "термос"],
+          "line": ["Serie 2", "Serie 4", "Serie 6", "Serie 8", "Pro", "Premium", "Comfort", "Smart", "Eco", "Max", "Lite", "Compact", "ProExpert", "Master", "Studio", "Power", "Air", "Clean", "Active", "Inverter", "Steam", "Turbo", "Glass", "Crystal", "Titanium", "Ceramic", "Stainless", "Smart", "Digital", "Touch"]
+        }
+      },
+      {
+        "pattern": "{product} {brand} {spec}",
+        "weight": 3,
+        "slots": {
+          "product": ["Чайник", "Кофемашина", "Блендер", "Миксер", "Мясорубка", "Соковыжималка", "Тостер", "Гриль", "Мультиварка", "Утюг", "Фен", "Пылесос", "Обогреватель", "Вентилятор", "Увлажнитель", "Триммер", "Эпилятор", "Бритва", "Гладильная доска", "Весы"],
+          "brand": ["Bosch", "Siemens", "Tefal", "Moulinex", "Redmond", "Polaris", "Scarlett", "Kitfort", "Bork", "Philips", "Braun", "Rowenta", "De'Longhi", "Krups", "Vitek", "Sinbo", "Xiaomi", "Samsung", "LG", "Midea"],
+          "spec": ["1.5л", "2л", "2.5л", "5л", "1.7кВт", "2кВт", "2.4кВт", "мощный", "компактный", "тихий", "быстрый", "экономичный", "беспроводной", "складной", "с терморегулятором", "с дисплеем", "с таймером", "с пультом", "с защитой", "инверторный", "сенсорный", "кнопочный", "стеклянный", "металлический", "керамический", "чёрный", "белый", "серебристый", "Premium", "Pro"]
+        }
+      },
+      {
+        "pattern": "{brand} {material} {product}",
+        "weight": 2,
+        "slots": {
+          "brand": ["Tefal", "Moulinex", "Scarlett", "Redmond", "Polaris", "Kitfort", "Bork", "IKEA", "Bosch", "Philips", "Zelmer", "Endever", "Vitek", "Midea", "De'Longhi"],
+          "material": ["Антипригарная", "Керамическая", "Нержавеющая", "Чугунная", "Алюминиевая", "Медная", "Стеклянная", "Фарфоровая", "Силиконовая", "Деревянная", "Бамбуковая", "Пластиковая", "Термостойкая", "Жаропрочная"],
+          "product": ["сковорода", "кастрюля", "сотейник", "казан", "противень", "форма для выпечки", "тарелка", "миска", "кружка", "чашка", "салатник", "хлебница", "разделочная доска", "подставка", "контейнер", "термос", "чайник заварочный", "турка", "френч-пресс", "кастрюля-скороварка"]
+        }
+      }
+    ]
+  }
+}

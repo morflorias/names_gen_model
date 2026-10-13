@@ -1,0 +1,826 @@
+{
+ "pairs": [
+  "clothing+cosmetics",
+  "clothing+electronics",
+  "clothing+food",
+  "clothing+household",
+  "clothing+toys",
+  "cosmetics+electronics",
+  "cosmetics+food",
+  "cosmetics+household",
+  "cosmetics+toys",
+  "electronics+food",
+  "electronics+household",
+  "electronics+toys",
+  "food+household",
+  "food+toys",
+  "household+toys"
+ ],
+ "starts": {
+  "clothing+cosmetics": [
+   [
+    "zara",
+    24,
+    "Zara косметичка белая"
+   ],
+   [
+    "mango",
+    24,
+    "Mango косметичка розовая"
+   ],
+   [
+    "h",
+    23,
+    "H&M косметичка черная"
+   ],
+   [
+    "nivea",
+    21,
+    "Nivea косметичка компактная"
+   ],
+   [
+    "natura",
+    15,
+    "Natura Siberica косметичка большая"
+   ],
+   [
+    "чистая",
+    14,
+    "Чистая Линия косметичка мягкая"
+   ],
+   [
+    "guess",
+    12,
+    "Guess косметичка кожаная"
+   ],
+   [
+    "dove",
+    12,
+    "Dove халат махровый"
+   ],
+   [
+    "l’oreal",
+    11,
+    "L'Oreal косметичка для макияжа"
+   ],
+   [
+    "librederm",
+    11,
+    "Librederm косметичка для ухода"
+   ],
+   [
+    "samsonite",
+    11,
+    "Samsonite косметичка для путешествий"
+   ],
+   [
+    "maybelline",
+    10,
+    "Maybelline косметичка дорожная"
+   ],
+   [
+    "vivienne",
+    9,
+    "Vivienne Sabo косметичка текстильная"
+   ],
+   [
+    "garnier",
+    3,
+    "Garnier косметичка для лица"
+   ]
+  ],
+  "clothing+electronics": [
+   [
+    "xiaomi",
+    27,
+    "Xiaomi Smart Band 9"
+   ],
+   [
+    "huawei",
+    27,
+    "Huawei Watch Fit 3"
+   ],
+   [
+    "amazfit",
+    27,
+    "Amazfit Bip 5"
+   ],
+   [
+    "nothing",
+    21,
+    "Nothing Smart Ring"
+   ],
+   [
+    "nike",
+    21,
+    "Nike LED Sneakers"
+   ],
+   [
+    "puma",
+    20,
+    "Puma Fitness Tracker"
+   ],
+   [
+    "sony",
+    20,
+    "Sony Smart Buds"
+   ],
+   [
+    "the",
+    15,
+    "The North Face Heated Vest"
+   ],
+   [
+    "honor",
+    14,
+    "Honor Watch GS"
+   ],
+   [
+    "jbl",
+    8,
+    "JBL Sport Headphones"
+   ]
+  ],
+  "clothing+food": [
+   [
+    "худи",
+    33,
+    "Худи Coca-Cola красное"
+   ],
+   [
+    "фартук",
+    33,
+    "Фартук Coca-Cola кухонный"
+   ],
+   [
+    "китель",
+    33,
+    "Китель Coca-Cola поварской"
+   ],
+   [
+    "футболка",
+    32,
+    "Футболка Coca-Cola красная"
+   ],
+   [
+    "кепка",
+    30,
+    "Кепка Coca-Cola черная"
+   ],
+   [
+    "колпак",
+    30,
+    "Колпак Coca-Cola поварской"
+   ],
+   [
+    "перчатки",
+    9,
+    "Перчатки кухонные Coca-Cola"
+   ]
+  ],
+  "clothing+household": [
+   [
+    "h",
+    21,
+    "H&M Home Плед флисовый"
+   ],
+   [
+    "ikea",
+    21,
+    "IKEA Плед флисовый"
+   ],
+   [
+    "arya",
+    21,
+    "Arya Плед шерстяной"
+   ],
+   [
+    "togas",
+    21,
+    "Togas Плед в клетку"
+   ],
+   [
+    "mona",
+    21,
+    "Mona Liza Плед флисовый"
+   ],
+   [
+    "cleanelly",
+    21,
+    "Cleanelly Плед шерстяной"
+   ],
+   [
+    "love",
+    21,
+    "Love Republic Плед шелковый"
+   ],
+   [
+    "befree",
+    21,
+    "Befree Плед флисовый"
+   ],
+   [
+    "zara",
+    20,
+    "Zara Home Плед шерстяной"
+   ],
+   [
+    "ostin",
+    12,
+    "Ostin Халат махровый"
+   ]
+  ],
+  "clothing+toys": [
+   [
+    "костюм",
+    62,
+    "Костюм Эльзы Disney"
+   ],
+   [
+    "пижама",
+    51,
+    "Пижама Микки Мауса Disney"
+   ],
+   [
+    "футболка",
+    41,
+    "Футболка Микки Мауса Disney"
+   ],
+   [
+    "платье",
+    37,
+    "Платье Золушки Disney"
+   ],
+   [
+    "одежда",
+    7,
+    "Одежда для кукол Barbie"
+   ],
+   [
+    "худи",
+    1,
+    "Худи LEGO Wear"
+   ],
+   [
+    "набор",
+    1,
+    "Набор одежды для кукол Crockid"
+   ]
+  ],
+  "cosmetics+electronics": [
+   [
+    "массажёр",
+    56,
+    "Массажёр для лица Philips FaceSpa"
+   ],
+   [
+    "стайлер",
+    36,
+    "Стайлер Dyson Airwrap"
+   ],
+   [
+    "фен",
+    35,
+    "Фен Dyson Supersonic"
+   ],
+   [
+    "дарсонваль",
+    20,
+    "Дарсонваль Gezatone"
+   ],
+   [
+    "эпилятор",
+    15,
+    "Эпилятор Philips Lumea"
+   ],
+   [
+    "триммер",
+    15,
+    "Триммер Braun"
+   ],
+   [
+    "led",
+    15,
+    "LED-маска Xiaomi"
+   ],
+   [
+    "зеркало",
+    4,
+    "Зеркало с подсветкой Xiaomi"
+   ],
+   [
+    "бьюти",
+    2,
+    "Бьюти-девайс L'Oreal"
+   ],
+   [
+    "бритва",
+    2,
+    "Бритва Nivea Men"
+   ]
+  ],
+  "cosmetics+food": [
+   [
+    "масло",
+    50,
+    "Масло кокосовое Parachute"
+   ],
+   [
+    "мёд",
+    32,
+    "Мёд липовый Baraka"
+   ],
+   [
+    "какао",
+    17,
+    "Какао-масло Mi&Ko"
+   ],
+   [
+    "оливковое",
+    16,
+    "Оливковое масло СпивакЪ"
+   ],
+   [
+    "алоэ",
+    16,
+    "Алоэ вера Levrana"
+   ],
+   [
+    "levrana",
+    14,
+    "Levrana Масло кокосовое 250мл"
+   ],
+   [
+    "organic",
+    13,
+    "Organic Shop Масло кокосовое нерафинированное"
+   ],
+   [
+    "mi",
+    12,
+    "Mi&Ko Масло кокосовое"
+   ],
+   [
+    "овсянка",
+    7,
+    "Овсянка Organic Shop"
+   ],
+   [
+    "natura",
+    6,
+    "Natura Siberica Масло ши"
+   ],
+   [
+    "baraka",
+    6,
+    "Baraka Какао-масло"
+   ],
+   [
+    "parachute",
+    3,
+    "Parachute Масло кокосовое 500мл"
+   ],
+   [
+    "alter",
+    2,
+    "Alter Ego Масло кокосовое"
+   ],
+   [
+    "спивакъ",
+    2,
+    "СпивакЪ Мёд липовый"
+   ],
+   [
+    "домашний",
+    2,
+    "Домашний мёд Грецкий"
+   ],
+   [
+    "алтайский",
+    2,
+    "Алтайский мёд Горный"
+   ]
+  ],
+  "cosmetics+household": [
+   [
+    "nivea",
+    20,
+    "Nivea гель для душа"
+   ],
+   [
+    "dove",
+    19,
+    "Dove мыло крем"
+   ],
+   [
+    "спивакъ",
+    19,
+    "СпивакЪ диффузор ароматический"
+   ],
+   [
+    "natura",
+    19,
+    "Natura Siberica мыло ручной работы"
+   ],
+   [
+    "organic",
+    19,
+    "Organic Shop саше ароматическое"
+   ],
+   [
+    "glade",
+    19,
+    "Glade диффузор для дома"
+   ],
+   [
+    "chirton",
+    19,
+    "Chirton гель для душа"
+   ],
+   [
+    "palmolive",
+    18,
+    "Palmolive пена для ванн"
+   ],
+   [
+    "air",
+    18,
+    "Air Wick освежитель воздуха"
+   ],
+   [
+    "ambi",
+    18,
+    "Ambi Pur свеча для ванной"
+   ],
+   [
+    "le",
+    12,
+    "Le Petit Marseillais свеча ароматическая"
+   ]
+  ],
+  "cosmetics+toys": [
+   [
+    "набор",
+    42,
+    "Набор косметики Маленькая Фея"
+   ],
+   [
+    "мыло",
+    21,
+    "Мыло для ванны Маленькая Фея"
+   ],
+   [
+    "лак",
+    20,
+    "Лак для ногтей Маленькая Фея"
+   ],
+   [
+    "блеск",
+    20,
+    "Блеск для губ Маленькая Фея"
+   ],
+   [
+    "шампунь",
+    20,
+    "Шампунь Маленькая Фея"
+   ],
+   [
+    "гель",
+    20,
+    "Гель для волос Маленькая Фея"
+   ],
+   [
+    "бомбочка",
+    19,
+    "Бомбочка для ванны Маленькая Фея"
+   ],
+   [
+    "слайм",
+    19,
+    "Слайм Маленькая Фея"
+   ],
+   [
+    "крем",
+    19,
+    "Крем для рук Маленькая Фея"
+   ]
+  ],
+  "electronics+food": [
+   [
+    "xiaomi",
+    21,
+    "Xiaomi Весы кухонные умные"
+   ],
+   [
+    "scarlett",
+    21,
+    "Scarlett Весы кухонные умные"
+   ],
+   [
+    "de’longhi",
+    21,
+    "De'Longhi Кофемашина с приложением"
+   ],
+   [
+    "krups",
+    21,
+    "Krups Кофемашина с приложением"
+   ],
+   [
+    "tefal",
+    21,
+    "Tefal Весы кухонные умные"
+   ],
+   [
+    "moulinex",
+    21,
+    "Moulinex Весы кухонные умные"
+   ],
+   [
+    "redmond",
+    20,
+    "Redmond Чайник умный SkyKettle"
+   ],
+   [
+    "polaris",
+    20,
+    "Polaris Весы кухонные умные"
+   ],
+   [
+    "kitfort",
+    20,
+    "Kitfort Чайник умный"
+   ],
+   [
+    "bork",
+    14,
+    "Bork Весы кухонные умные"
+   ]
+  ],
+  "electronics+household": [
+   [
+    "irobot",
+    30,
+    "iRobot Roomba i3"
+   ],
+   [
+    "roborock",
+    27,
+    "Roborock S8 Pro Ultra"
+   ],
+   [
+    "karcher",
+    24,
+    "Karcher WD 3"
+   ],
+   [
+    "philips",
+    21,
+    "Philips Air Purifier 2000i"
+   ],
+   [
+    "dyson",
+    20,
+    "Dyson V15 Detect"
+   ],
+   [
+    "xiaomi",
+    19,
+    "Xiaomi Smart Plug WiFi"
+   ],
+   [
+    "redmond",
+    19,
+    "Redmond Humidifier 2C"
+   ],
+   [
+    "polaris",
+    11,
+    "Polaris Fan Smart"
+   ],
+   [
+    "thomas",
+    10,
+    "Thomas Vacuum T10"
+   ],
+   [
+    "samsung",
+    10,
+    "Samsung Smart Plug"
+   ],
+   [
+    "bosch",
+    5,
+    "Bosch Humidifier"
+   ],
+   [
+    "tefal",
+    4,
+    "Tefal Air Purifier"
+   ]
+  ],
+  "electronics+toys": [
+   [
+    "dji",
+    28,
+    "DJI Tello"
+   ],
+   [
+    "sony",
+    28,
+    "Sony PlayStation 5"
+   ],
+   [
+    "xbox",
+    22,
+    "Xbox Series S"
+   ],
+   [
+    "hasbro",
+    19,
+    "Hasbro RC Car"
+   ],
+   [
+    "mattel",
+    18,
+    "Mattel Hot Wheels RC"
+   ],
+   [
+    "syma",
+    17,
+    "SYMA X5"
+   ],
+   [
+    "nintendo",
+    14,
+    "Nintendo Switch"
+   ],
+   [
+    "vtech",
+    13,
+    "VTech Kidizoom"
+   ],
+   [
+    "hiper",
+    13,
+    "HIPER Drone"
+   ],
+   [
+    "bondibon",
+    12,
+    "Bondibon Robot"
+   ],
+   [
+    "spin",
+    11,
+    "Spin Master Paw Patrol Robot"
+   ],
+   [
+    "lego",
+    5,
+    "LEGO Technic"
+   ]
+  ],
+  "food+household": [
+   [
+    "чай",
+    33,
+    "Чай Greenfield черный"
+   ],
+   [
+    "контейнер",
+    31,
+    "Контейнер IKEA 300мл"
+   ],
+   [
+    "специи",
+    31,
+    "Специи Увелка перец"
+   ],
+   [
+    "крупа",
+    30,
+    "Крупа гречневая Увелка"
+   ],
+   [
+    "кофе",
+    30,
+    "Кофе Jacobs Monarch"
+   ],
+   [
+    "сковорода",
+    18,
+    "Сковорода Tefal Titanium"
+   ],
+   [
+    "кастрюля",
+    16,
+    "Кастрюля Rondell 3л"
+   ],
+   [
+    "диспенсер",
+    8,
+    "Диспенсер IKEA для круп"
+   ],
+   [
+    "форма",
+    3,
+    "Форма для выпечки Gipfel"
+   ]
+  ],
+  "food+toys": [
+   [
+    "smoby",
+    30,
+    "Smoby Кухня детская"
+   ],
+   [
+    "step",
+    30,
+    "Step2 Кухня детская"
+   ],
+   [
+    "полесье",
+    29,
+    "Полесье Кухня детская"
+   ],
+   [
+    "play",
+    28,
+    "Play-Doh продукты"
+   ],
+   [
+    "kinder",
+    20,
+    "Kinder Сюрприз"
+   ],
+   [
+    "bondibon",
+    20,
+    "Bondibon с сюрпризом"
+   ],
+   [
+    "красный",
+    20,
+    "Красный Октябрь шоколад"
+   ],
+   [
+    "chupa",
+    19,
+    "Chupa Chups с игрушкой"
+   ],
+   [
+    "бабаевский",
+    4,
+    "Бабаевский шоколад"
+   ]
+  ],
+  "household+toys": [
+   [
+    "палатка",
+    32,
+    "Палатка детская Smoby"
+   ],
+   [
+    "кухня",
+    28,
+    "Кухня игрушечная Smoby"
+   ],
+   [
+    "стульчик",
+    26,
+    "Стульчик детский Smoby"
+   ],
+   [
+    "манеж",
+    24,
+    "Манеж детский Smoby"
+   ],
+   [
+    "бизиборд",
+    24,
+    "Бизиборд Smoby деревянный"
+   ],
+   [
+    "пылесос",
+    21,
+    "Пылесос игрушечный Smoby"
+   ],
+   [
+    "стол",
+    19,
+    "Стол детский Smoby"
+   ],
+   [
+    "мольберт",
+    17,
+    "Мольберт детский Smoby"
+   ],
+   [
+    "столик",
+    9,
+    "Столик детский Smoby"
+   ]
+  ]
+ }
+}

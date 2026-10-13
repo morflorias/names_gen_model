@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Tooling / env
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated artifacts
+outputs/
+*.backup.docx
+
+# OS
+.DS_Store
+Thumbs.db
